@@ -1,6 +1,8 @@
+# Note
+This is forked from https://github.com/mirsamantajbakhsh/LiveRadio and fixed various files to be usable in Android 3.6 (29th Nov 2020)
 
 # Live Radio
-Broadcast from your Android device. Live Radio is a audio streaming library based on CoolMicApp (default IceCast Android Client), for making the life easier. The detailed explanation is available at [my personal blog](https://mstajbakhsh.ir/broadcast-yourself-through-android/).
+Broadcast from your Android device. Live Radio is a audio streaming library based on CoolMicApp (default IceCast Android Client), for making the life easier.
 
 # How to Use
 
