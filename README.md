@@ -1,5 +1,5 @@
 # Note
-This is forked from https://github.com/mirsamantajbakhsh/LiveRadio and fixed various files to be usable in Android 3.6 (29th Nov 2020)
+This is forked from https://github.com/mirsamantajbakhsh/LiveRadio and fixed various files to be usable in Android 3.6 (29th Nov 2020). The sample code provided below does not work as is it. You must put this code in foreground service to keep it broadcasting. I also fixed the event handling code, previously it was not throwing error on icecast stream break error. 
 
 # Live Radio
 Broadcast from your Android device. Live Radio is a audio streaming library based on CoolMicApp (default IceCast Android Client), for making the life easier.
