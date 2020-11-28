@@ -1,7 +1,7 @@
 # Note
 This is forked from https://github.com/mirsamantajbakhsh/LiveRadio and fixed various files to be usable in Android 3.6. The sample code provided below by actual author does not work as is it. You must put this code in foreground service to keep it broadcasting. I also fixed the event handling code, previously it was not throwing error on icecast stream break error. Also added method to change bitrate.
 
-I've also placed output/liveradio.aar file which one can include in android project, without all the stuff of setting up ndk, configure and build.
+I've also placed output/liveradio.aar file (build using android studio 3.6, ndk, win-10) which one can include in android project, without all the stuff of setting up ndk, configure and build.
 
 - Azghanvi
 (29th Nov 2020)
